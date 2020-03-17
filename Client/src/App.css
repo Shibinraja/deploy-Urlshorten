@@ -1,0 +1,102 @@
+
+ #logo{
+   padding:40px 20px 25px;
+   text-align: center;
+ }
+ 
+ #logo a{
+  font:900 49px arial;
+  color:black;
+  letter-spacing:-1px;
+  text-shadow: 0 2px 2px #ddd;
+  word-wrap: break-word;
+  text-decoration: none;
+}
+
+#urlbox{
+  margin:0 auto 20px auto;
+  max-width:785px;
+  box-shadow:0 1px 4px #ccc;
+  border-radius:2px;
+  padding:10px 30px 5px;
+  background:#fff;
+  text-Align:center;
+}
+
+#urlbox h1{
+  margin:10px auto 30px auto;
+  font:bold 36px ,arial;
+  color:blue;
+  letter-spacing:-1px;
+  font-weight:none;
+  text-shadow: 0 2px black;
+}
+
+.form-group{
+  width:100%;
+}
+
+
+.btn{
+  margin-left: 80%;
+  margin-top:-68px
+}
+
+.boxtextcenter {
+  margin:10px auto 20px auto;
+  text-align:center;
+  max-width:620px;
+  font-family:cursive;
+  line-height:1.5;
+
+}
+
+#content {
+  max-width: 720px;
+  margin:30px auto 20px;
+}
+
+#content h2{
+  margin:5 -10px 0;
+  color:#505050;
+  letter-spacing:0;
+}
+
+#content p{
+  font:16px "source sans pro", arial;
+  color:#484848;
+  line-height:1.5;
+  text-align:left;
+}
+
+#content a{
+  color:#006cff;
+  text-decoration: none;
+}
+
+#logfooter {
+  padding: 20px 0 100px;
+  text-align:center;
+  color:#eee;
+  line-height:1.5;
+  bottom:0;
+  height:40px;
+  background:#333;
+  width:100%;
+  border-top:5px solid #00a0db
+}
+
+.link {
+  width:4%;
+  height:auto;
+  padding-bottom:25px;
+}
+
+@media only screen and (max-width:400px){
+  .form-control {
+    margin-left: -10px;
+  }
+  .btn {
+    margin-left:75%
+  }
+}
