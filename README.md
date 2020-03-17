@@ -1,16 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed on https://thawing-basin-93604.herokuapp.com/.
+
 
 ## Available Scripts
-.Make sure you have Nodejs and npm installed.
+Make sure you have Nodejs and npm installed.
 
-.clone this repo (https://github.com/Shibinraja/deploy-urlShortener.git)
+clone this repo (https://github.com/Shibinraja/deploy-urlShortener.git)
 
-.Enter into cloned directory.
+Enter into cloned directory.
 
-.Type yarn or npm install.
+Type yarn or npm install.
 
-.Run Urlserver.js to make the server run by directing to the directory path.
+Run Urlserver.js to make the server run by directing to the directory path.
 
 Enter your desired link and generate the short one.
 
