@@ -6,7 +6,7 @@ Deployed on https://thawing-basin-93604.herokuapp.com/.
 ## Available Scripts
 Make sure you have Nodejs and npm installed.
 
-clone this repo (https://github.com/Shibinraja/deploy-urlShortener.git)
+clone this repo (https://github.com/Shibinraja/deploy-Urlshorten.git)
 
 Enter into cloned directory.
 
